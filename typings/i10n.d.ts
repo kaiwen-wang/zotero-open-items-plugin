@@ -13,6 +13,7 @@ export type FluentMessageId =
   | 'menuitem-label'
   | 'menuitem-submenulabel'
   | 'menupopup-label'
+  | 'open-items-open-url'
   | 'pref-enable'
   | 'pref-help'
   | 'pref-input'
