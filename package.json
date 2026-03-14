@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leaflet/zotero-open-items-plugin.git"
+    "url": "git+https://github.com/kaiwen-wang/zotero-open-items-plugin.git"
   },
   "author": "leaflet",
   "bugs": {
-    "url": "https://github.com/leaflet/zotero-open-items-plugin/issues"
+    "url": "https://github.com/kaiwen-wang/zotero-open-items-plugin/issues"
   },
-  "homepage": "https://github.com/leaflet/zotero-open-items-plugin#readme",
+  "homepage": "https://github.com/kaiwen-wang/zotero-open-items-plugin#readme",
   "license": "AGPL-3.0-or-later",
   "scripts": {
     "start": "zotero-plugin serve",
